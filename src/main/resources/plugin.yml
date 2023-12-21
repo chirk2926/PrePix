@@ -1,0 +1,4 @@
+name: PrePix
+version: '${project.version}'
+main: website.slimesoft.prepix.PrePix
+api-version: '1.20'
